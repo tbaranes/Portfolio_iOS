@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21040C75-F3A7-4D71-9362-0B6A14973086</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Portfolio_TB</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1F335F4-D735-4841-B91F-4CF5909D68A0</key>
+		<string>https://github.com/tbaranes/Portfolio_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Portfolio_TB/Portfolio_TB.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1F335F4-D735-4841-B91F-4CF5909D68A0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tbaranes/Portfolio_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1F335F4-D735-4841-B91F-4CF5909D68A0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1F335F4-D735-4841-B91F-4CF5909D68A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Portfolio_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

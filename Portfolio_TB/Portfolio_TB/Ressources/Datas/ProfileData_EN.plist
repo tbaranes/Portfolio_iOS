@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>section_name</key>
+		<string>Who am I</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFIdentityCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>picture</key>
+					<string>profile_picture@2x.jpg</string>
+					<key>text1</key>
+					<string>Tom Baranes</string>
+					<key>text2</key>
+					<string>Lille, France</string>
+					<key>text3</key>
+					<string>22 years old - Licence driver</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFParagraphCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>text</key>
+					<string>Expert informaticien</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>What am I looking for</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFParagraphCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>text</key>
+					<string>Looking for a 6 months part time job (3 days/week) from 2014 september in the mobile area (iOS/Android)</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Find me</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>mail</string>
+					<key>target</key>
+					<string>tom.baranes@gmail.com</string>
+					<key>left_text</key>
+					<string>Email</string>
+					<key>right_text</key>
+					<string>tom.baranes@gmail.com</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>call</string>
+					<key>target</key>
+					<string>+330611076968</string>
+					<key>left_text</key>
+					<string>Phone</string>
+					<key>right_text</key>
+					<string>+336.11.07.69.68</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>url</string>
+					<key>target</key>
+					<string>https://github.com/tbaranes/</string>
+					<key>left_text</key>
+					<string>Github</string>
+					<key>right_text</key>
+					<string>tbaranes</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>url</string>
+					<key>target</key>
+					<string>http://www.linkedin.com/profile/view?id=165792062</string>
+					<key>left_text</key>
+					<string>Linkedin</string>
+					<key>right_text</key>
+					<string></string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>url</string>
+					<key>target</key>
+					<string>http://www.viadeo.com/profile/0022dxxaudtwa33o</string>
+					<key>left_text</key>
+					<string>Viadeo</string>
+					<key>right_text</key>
+					<string></string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Motivation</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFParagraphCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>text</key>
+					<string>Passionate by new technologies since several years, the smartphones and tablet&apos;s potential pushed me to invest myself in the mobile technology. That&apos;s why, since 2012 september, I&apos;m specializing in this area.</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

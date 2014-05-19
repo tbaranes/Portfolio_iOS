@@ -1,0 +1,11 @@
+/* Localized versions of Info.plist keys */
+
+// TabBar
+"tab_bar.profile" = "Tom Baranes";
+"tab_bar.resume" = "Curriculum vitae";
+"tab_bar.projects" = "Projets";
+
+// Profile
+"profile.send_email.error_title" = "Erreur";
+"profile.send_email.error_message" = "Votre device ne peut pas envoyer de mail.";
+"profile.call.error_message" = "Votre device ne peut pas émettre des appels.";

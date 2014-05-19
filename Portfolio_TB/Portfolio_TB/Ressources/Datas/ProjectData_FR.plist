@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>section_name</key>
+		<string>Mes projets</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<true/>
+					<key>icon_app</key>
+					<string>icon_app_friendlyquiz.png</string>
+					<key>name</key>
+					<string>FriendlyQuiz</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_friendlyquiz.png</string>
+										<key>name</key>
+										<string>FriendlyQuiz</string>
+										<key>description</key>
+										<string>FriendlyQuiz est le premier quiz multijoueurs en temps réel sur smartphone !
+Téléchargez l’application et affrontez jusqu’à 7 amis en temps réels dans des quiz amusants et variés. Soyez le plus rapide à répondre aux questions pour atteindre les meilleurs scores dans de nombreuses catégories (film, musique, sport, jeux-vidéos et pleins d’autres déblocables).
+En jouant “Friendly” vous pourrez retrouver vos amis facebook ou encore partager vos succès et vos meilleurs scores sur vos réseaux sociaux préférés.
+Consultez des statistiques délirantes sur vous ou vos amis ou essayez de débloquer tous les titres et succès et si vous n’en avez pas assez, débloquez du contenu inédit avec les quickz gagnés en jouant.
+Retrouvez FriendlyQuiz sur Android, iOS et Windows Phone. Que vous soyez amateurs de quiz ou incollables en culture générale, cinéphile, gamer ou fan de sports, il y en a pour tous les goûts !
+</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Projet de fin d&apos;étude</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Chef de projet /Lead dev iOS / Dev Android</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 1.0 iOS et Android</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string></string>
+										<key>target</key>
+										<string></string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - Coming soon</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_friendlyquiz_1.jpeg</string>
+											<string>screenshot_friendlyquiz_2.jpeg</string>
+											<string>screenshot_friendlyquiz_3.jpeg</string>
+											<string>screenshot_friendlyquiz_4.jpeg</string>
+											<string>screenshot_friendlyquiz_5.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_portfolio.png</string>
+					<key>name</key>
+					<string>Portfolio Tom Baranes</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_portfolio.png</string>
+										<key>name</key>
+										<string>Portfolio Tom Baranes</string>
+										<key>description</key>
+										<string>Ce portfolio est un résumé de mon parcours jusqu&apos;à aujourd&apos;hui. 
+A travers ce dernier, découvrez:
+- Qui je suis
+- Les études/formations réalisées jusqu&apos;à aujourd&apos;hui
+- Ce que je recherche professionnellement parlant
+- Les projets que j&apos;ai réalisés
+- etc.
+
+Vous êtes un recruteur ? Un étudiant en informatique ? Juste une personne curieuse ? Ce portfolio est ouvert à toutes personnes souhaitant le regarder.
+
+Vous êtes dev mobile mais n&apos;avez pas le temps de réalisez le votre ! Utilisez mon template se trouvant sur github. Changez 2-3 fichiers, et vous voilà armés d&apos;un portfolio iOS !
+
+Attention: Les informations de ce portfolio peuvent être obsolètes en fonction de la dernière mise à jour réalisée.
+
+</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Tom Baranes</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Tout</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Toutes</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Screenshots</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_portfolio_1.jpeg</string>
+											<string>screenshot_portfolio_2.jpeg</string>
+											<string>screenshot_portfolio_3.jpeg</string>
+											<string>screenshot_portfolio_4.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_parvest.png</string>
+					<key>name</key>
+					<string>Parvest</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_parvest.png</string>
+										<key>name</key>
+										<string>Parvest</string>
+										<key>description</key>
+										<string>Destinée aux professionnels de l’investissement*, l’application Parvest par BNP Paribas Investment Partners, vous permet d’accéder à toute l’offre et les services Parvest sur votre iPad.
+
+- Accédez rapidement à la gamme Parvest : panorama dynamique, moteur de recherche par besoin d’investissement ou par classe d’actifs.
+- Consultez la fiche détaillée de chaque compartiment : informations réglementaires, graphiques de performance, documentation légale.
+- Trouvez facilement les solutions d&apos;investissement qui correspondent au profil et aux besoins spécifiques de vos clients : approche par besoin, outils de simulation.
+- Préparez vos rendez-vous : création de dossier, gestion de favoris.
+- Retrouvez notre stratégie et les points de vue de nos experts : actualités et vidéos.
+- Restez informé de l’actualité Parvest : inscription aux évènements, notifications.
+- Partagez et échangez des contenus : par mail ou sur les réseaux sociaux.
+
+Uniquement disponible sur iPad
+
+Parvest est une SICAV UCITS IV de droit luxembourgeois. BNP Paribas Investment Partners est la marque globale des services de gestion d’actifs du groupe BNP Paribas. Pour tout complément d’information, veuillez contacter votre partenaire local agréé. Retrouvez-nous également sur : www.parvest.com 
+
+*Cette application s&apos;adresse uniquement aux clients professionnels tels que définis par la directive MIF. Il appartient à l&apos;utilisateur de l’application de s&apos;assurer que la législation qui lui est applicable l&apos;autorise à consulter cette application. L&apos;utilisateur reconnaît avoir les moyens et la compétence nécessaires pour accéder à cette application et l&apos;utiliser.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Backelite</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 1.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id843351996</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPad</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_parvest_1.jpeg</string>
+											<string>screenshot_parvest_2.jpeg</string>
+											<string>screenshot_parvest_3.jpeg</string>
+											<string>screenshot_parvest_4.jpeg</string>
+											<string>screenshot_parvest_5.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_caisse_epargne.png</string>
+					<key>name</key>
+					<string>Caisse d&apos;Epargne</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_caisse_epargne.png</string>
+										<key>name</key>
+										<string>Caisse d&apos;Epargne</string>
+										<key>description</key>
+										<string>Avec l&apos;application Caisse d&apos;Epargne, retrouvez les services essentiels de la Caisse d&apos;Epargne partout avec vous. Gérez vos comptes à distance du bout des doigts grâce à une application simple, pratique et sécurisée.
+
+
+TABLEAU DE BORD
+- Découvrez le tableau de bord de votre application que vous pouvez personnaliser et organiser selon vos besoins (solde de vos comptes principaux, encours Carte Bancaire, nouveaux messages, coordonnées de votre conseiller…).
+- Déplacez, ajoutez, supprimez ou modifiez la taille des tuiles afin de créer votre tableau de bord.
+
+ACCES RAPIDE / en test sur la Caisse d&apos;Epargne Bretagne Pays de Loire pour le moment
+- Profitez pleinement de votre application Caisse d’Epargne en activant la fonctionnalité « Accès rapide » afin de consulter instantanément les informations essentielles de votre compte. Vous visualiserez, à chaque ouverture de votre application, sans ressaisie de votre mot de passe, les informations de votre tableau de bord. L’accès aux autres informations/fonctionnalités (autres comptes, virements, crédits…) reste soumis à la saisie de votre mot de passe.
+
+SOLDES, HISTORIQUES ET VIREMENTS
+- Consultez et gérez vos comptes en temps réel.
+- Accès aux prélèvements à venir.
+- Suivez le détail de votre portefeuille titres avec une ventilation par catégorie de valeurs (actions, obligations, OPCVM…).
+- Effectuez tous vos virements immédiats ou différés.
+- Réalisez rapidement votre virement le plus fréquent directement depuis votre tableau de bord. 
+- Envoyez votre RIB par e-mail.
+
+CREDITS
+- Consultez le détail de vos crédits détenus (immobilier, consommation). 
+- Consultez votre disponible de crédit renouvelable IZICARTE/TEOZ et demandez un financement ou remboursement anticipé.
+ASSURANCES
+- Consultez le détail de vos assurances détenues (automobile, Habitation, Protection juridique...).
+
+CONSEILLER ET AGENCES
+- Utilisez la messagerie sécurisée pour communiquer avec votre conseiller ou votre agence.
+- Appelez directement votre conseiller ou votre agence. 
+- Retrouvez les coordonnées des agences et distributeurs automatiques Caisse d&apos;Epargne les plus proches.
+
+DIVERS
+- Réalisez vos simulations Crédit et Epargne.
+- Retrouvez tous les numéros utiles d&apos;assistance et les informations nécessaires pour faire opposition. 
+
+
+L’application Caisse d’Epargne est un service gratuit et est adaptée à l&apos;écran Retina.
+Le service est ouvert aux particuliers et aux professionnels.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Backelite</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 3.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id402753249</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id442737896</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPad</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_caisse_epargne_1.jpeg</string>
+											<string>screenshot_caisse_epargne_2.jpeg</string>
+											<string>screenshot_caisse_epargne_3.jpeg</string>
+											<string>screenshot_caisse_epargne_4.jpeg</string>
+											<string>screenshot_caisse_epargne_5.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_sncf_direct.png</string>
+					<key>name</key>
+					<string>SNCF Direct</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_sncf_direct.png</string>
+										<key>name</key>
+										<string>SNCF Direct</string>
+										<key>description</key>
+										<string>SNCF DIRECT, l’information SNCF en temps réel
+
+Retrouvez dans votre application SNCF Direct toutes les informations nécessaires à votre voyage en temps réel, à travers une navigation fluide :
+
+• Affichez le tableau de départ ou d’arrivée de vos gares favorites en temps réel et inscrivez-vous aux alertes des trains que vous souhaitez suivre
+
+• Ajoutez vos voyages* dans l’application : 
+- Visualisez votre numéro de voiture et votre placement à bord du train ainsi que la progression de votre itinéraire (incluant les correspondances éventuelles) 
+- Recevez des alertes dès que votre quai de départ ou d’arrivée est connu ou dès qu’une perturbation est annoncée
+
+• Plus besoin de composter ! Retrouver désormais le m-billet*** ou votre carte de fidélité dans votre smartphone 
+
+• Le jour de votre voyage, votre train est perturbé ? Nous vous proposons de consulter les autres trains ou correspondances depuis la page détail de votre voyage
+
+• Recherchez un train par son numéro ou par gare de départ et d’arrivée, en choisissant un trajet direct ou avec correspondance, et faites une recherche sur le trajet retour en un clic
+
+• Retrouvez dans les résultats tous les trajets possibles y compris ceux avec correspondance
+
+• Vous êtes membre du programme de fidélité SNCF ? Identifiez-vous en quelques secondes et retrouvez automatiquement tous vos voyages e-billets et votre carte de fidélité dématérialisé. Si vous avez perdu votre mot de passe, vous pouvez en demander un nouveau depuis votre application.
+
+• Vous n’êtes pas encore membre du programme de fidélité SNCF ? Inscrivez-vous facilement grâce à cette application.
+
+• Consultez la liste des services et des commerces disponibles dans votre gare de départ et d’arrivée (parking, bus, métro, taxi, salons d’attente, toilettes, relais presse, espaces de restauration, guichets automatiques, location de voiture, services d&apos;accessibilité) **
+
+• Affichez le plan des environs de la gare et repérez-vous dans la ville grâce au système de géolocalisation
+
+• Ecoutez SNCF La Radio qui vous informe en temps réel grâce aux flashs info-trafic et vous accompagne dans vos déplacements, avec une programmation musicale et des émissions culturelles. SNCF La Radio est disponible 24h/24 dans toute la France, avec des décrochages régionaux pour être au plus proche de vous.
+
+• Dès 14h, le lendemain de votre voyage, consultez votre heure d&apos;arrivée, le motif du retard éventuel et vos droits à compensation grâce à la Garantie Ponctualité (une des 6 garanties de La Garantie Voyage®, valable pour TGV et Intercités uniquement)
+
+• Accédez également aux résultats Ponctualité de votre train sur les 60 derniers jours.
+
+Gardez dans votre poche les informations relatives à votre prochain voyage en train. SNCF Direct est une application incontournable… et totalement gratuite !
+
+Ce service est disponible actuellement au départ et à l’arrivée des principales gares Grandes Lignes.
+
+* Les consultations de voyage IDTGV ne sont pas disponibles dans la version actuelle de l&apos;application. 
+** Les informations sur les services en gare sont données à titre indicatif et sous réserve de modification
+***Le service m-billet est proposé sur une sélection de destinations et pour les clients non adhérents au programme de fidélité Voyageur. (Dans ce cas, le e-billet est automatiquement disponible via le code-barres sur la carte de fidélité).</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Backelite</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 4.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id334438197</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id334438197</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPad</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_sncf_direct_1.jpeg</string>
+											<string>screenshot_sncf_direct_2.jpeg</string>
+											<string>screenshot_sncf_direct_3.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_bp_cyberplus.png</string>
+					<key>name</key>
+					<string>Cyberplus </string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_bp_cyberplus.png</string>
+										<key>name</key>
+										<string>Cyberplus</string>
+										<key>description</key>
+										<string>Accédez à vos comptes à tout moment grâce à votre iPhone avec l’application Cyberplus BANQUE POPULAIRE version mobile.
+
+Effectuez vos opérations courantes de manière sécurisée, sans vous déplacer et quand vous le souhaitez !
+
+Découvrez une nouvelle façon d’épargner d’un seul geste avec la fonctionnalité « Rapid’Epargne » et préparez vos projets de manière ludique.
+
+Dans le détail, avec Cyberplus version mobile, 24h/24 et 7j/7, vous pouvez :
+
+- Consulter vos soldes
+- Suivre vos encours carte
+- Effectuer tous vos virements
+- Consulter le détail de vos opérations
+
+Et ce n&apos;est pas tout ! L’application Cyberplus vous propose de nombreux services pour vous faciliter la banque au quotidien :
+
+- Accéder aux numéros d&apos;urgence de votre BANQUE POPULAIRE
+- Géolocaliser un distributeur de billets
+- Consulter les horaires d&apos;ouverture et les coordonnées de votre agence
+- Afficher votre RIB et l’envoyer par email
+- Conserver votre identifiant sans avoir à le saisir à chaque utilisation
+- Télécharger l&apos;application ASSURANCE AUTO ou ESPACE OPCVM</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Backelite</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 2.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id408871253</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_bp_cyberplus_1.jpeg</string>
+											<string>screenshot_bp_cyberplus_2.jpeg</string>
+											<string>screenshot_bp_cyberplus_3.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_mysmart_card</string>
+					<key>name</key>
+					<string>MySmart-Card</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_mysmart_card</string>
+										<key>name</key>
+										<string>MySmart-Card</string>
+										<key>description</key>
+										<string>MYSMART-CARD est une carte de visite intelligente accessible et modifiable à tout moment via votre compte sécurisé contenant toutes les données que vous avez choisi d’y faire figurer: Photos, Vidéos, Audio, PDF, Excel, PowerPoint, Word. Le tout réuni dans votre application mobile gratuite et dans un QR-Code, que vous pourrez appliquer sur tous vos supports de communication en plus de sa diffusion par mail ou SMS.
+
+Une carte de visite multi-fonctions par laquelle votre interlocuteur pourra :
+- Recevoir votre profil complet sur son smartphone en direct etconsulter votre profil et vos documents, télécharger votre plaquette commerciale, vos réalisations, vos documents.
+- Diffuser votre profil à ses contacts téléphoniques par SMS, à ses contacts mails, Facebook, Twitter, et autres réseaux sociaux.
+
+Après avoir renseigné vos identifiants, vous pourrez avec cette application partager votre smart-card par sms, e-mail et sur les principaux réseaux sociaux aux personnes que vous rencontrerez.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Auto-Entrepreneur / Mission freelance</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Lead dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 1.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id824432014</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_mysmart-card_1.jpeg</string>
+											<string>screenshot_mysmart-card_2.jpeg</string>
+											<string>screenshot_mysmart-card_3.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<true/>
+					<key>icon_app</key>
+					<string>icon_app_jukeboard.png</string>
+					<key>name</key>
+					<string>Jukeboard</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_jukeboard.png</string>
+										<key>name</key>
+										<string>Jukeboard</string>
+										<key>description</key>
+										<string>Jukeboard est l&apos;application qu&apos;il vous faut pour passer de bons moments.
+
+Innovante et interactive, l&apos;application Jukeboard te permet de prendre le contrôle de la musique du lieu dans lequel tu te trouves. 
+Le jukebox 2.0 est né !
+
+En lançant l’application, localise les endroits équipés et sélectionne celui dans lequel tu es, ou alors, choisis un lieu en fonction des styles musicaux diffusés.
+
+Consulte la playlist du bar et participe à l’ambiance en y ajoutant gratuitement le morceau de ton choix.
+
+Jukeboard s’occupe de modérer automatiquement les titres ajoutés. Pas de répétition et une cohérence selon les styles musicaux définis par l’établissement ! C’est la garantie d’une expérience musicale unique dont tu es l’acteur principal. 
+
+Prends le contrôle de la musique ! 
+
+Vous êtes un professionnel et vous souhaitez tester Jukeboard, rendez sur www.jukeboard.eu ou contactez nous directement !</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Auto-Entrepreneur / Mission freelance</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Lead dev iOS / Dev Android</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>iOS: V1.0 jusqu&apos;à 2.0.2 / Android: V1.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id626894179</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>https://play.google.com/store/apps/details?id=com.smart_pixel.jukeboard</string>
+										<key>left_image</key>
+										<string>icon_play_store</string>
+										<key>title</key>
+										<string>Play Store</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_jukeboard_1.jpeg</string>
+											<string>screenshot_jukeboard_2.jpeg</string>
+											<string>screenshot_jukeboard_3.jpeg</string>
+											<string>screenshot_jukeboard_4.jpeg</string>
+											<string>screenshot_jukeboard_5.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_promocross.png</string>
+					<key>name</key>
+					<string>Promocross</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_promocross.png</string>
+										<key>name</key>
+										<string>Promocross</string>
+										<key>description</key>
+										<string>Promocross est l&apos;application indispensable pour les amateurs de saut d&apos;obstacles !
+Préparez vos épreuves équestres en faisant la reconnaissance de votre parcours : déplacez-vous avec votre téléphone et ajoutez les obstacles et minutages rencontrés sur le parcours. Vous pourrez ainsi simplement vous préparer à votre concours et suivre vos performances équestres.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Système Polaire</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Lead dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>V1.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id721591596</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_promocross_1.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_sols.png</string>
+					<key>name</key>
+					<string>Sol&apos;s</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_sols.png</string>
+										<key>name</key>
+										<string>Sol&apos;s</string>
+										<key>description</key>
+										<string>Présent dans 43 pays et plus de 250 villes dans le monde. Les produits SOL&apos;S sont vendus uniquement par un réseau spécialisé et non-directement aux clients finaux. 
+
+Seule marque disposant d&apos;une charte d&apos;engagement, certifiant d&apos;un code de conduite, du respect de l&apos;environnement, des contôroles qualité, respect des normes, certifications, etc...) SOL&apos;S s&apos;appuie sur un service unique disposant du plus gros stock permanent d&apos;Europe: 25 millions de pièces. Permettant une réelle facilité d&apos;achat et garantissant ainsi l&apos;obligation d&apos;un rapport Qualité / Prix / Service, reconnu de tous, 
+
+La collection SOL&apos;S est étudiée pour répondre à 80% de la demande du marché mondial, avec une richesse de son offre, tant au niveau de la promotion publicitaire qu&apos;au niveau des sports collectifs ou du vêtement de travail.
+
+SOL&apos;S accompagne les plus grands évènemments de tous types et les plus grandes marques à travers le monde. 
+
+Fonctionnalités de l&apos;application:
+- Catalogue de nos produits
+- Consultation des stocks 
+- Actualités en temps réel
+- Visualisalisation de la charte d&apos;engagement</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Systeme Polaire</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Lead dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 1.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id623202845</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id623202845</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPad</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_sols_1.jpeg</string>
+											<string>screenshot_sols_2.jpeg</string>
+											<string>screenshot_sols_3.jpeg</string>
+											<string>screenshot_sols_4.jpeg</string>
+											<string>screenshot_sols_5.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

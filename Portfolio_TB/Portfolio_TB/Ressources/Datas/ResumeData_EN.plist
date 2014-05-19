@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>section_name</key>
+		<string>Education</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Expert IT</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_date.png</string>
+						<string>2010-2015</string>
+						<string>icon_localisation.png</string>
+						<string>European Institute of Technology (Epitech), Paris</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>4th year - Exchange student</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_date.png</string>
+						<string>2013-2014</string>
+						<string>icon_localisation.png</string>
+						<string>Chung Ang University, Seoul (South Korea)</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Baccalaureate STG</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_date.png</string>
+						<string>2010</string>
+						<string>icon_localisation.png</string>
+						<string>Secondary school Le Rebours, Paris 13</string>
+						<string>Sciences and technologiy of the gestion, speciality gestion of information system</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Work experience</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Auto-entrepreneur</string>
+					<key>subtitles</key>
+					<array>
+						<string>Freelance iOS and Android</string>
+						<string>icon_date.png</string>
+						<string>Since march 2013 </string>
+						<string>Development of mobile applications iOS and Android</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>iOS developer internship</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_localisation.png</string>
+						<string>Backelite (Paris, 75008)</string>
+						<string>icon_date.png</string>
+						<string>May to August 2013</string>
+						<string>Development of iOS application: &quot;Cyberplus&quot;, &quot;Caisse d’Épargne&quot;, &quot;SNCF Direct&quot;, &quot;Parvest&quot;</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>iOS developer</string>
+					<key>subtitles</key>
+					<array>
+						<string>Part time job (2 days/week)</string>
+						<string>icon_localisation.png</string>
+						<string>Système Polaire (Paris, 75002)</string>
+						<string>icon_date.png</string>
+						<string>September 2012 to april 2013</string>
+						<string>Development of iOS application: Sol’s, Promocross</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>internship web developer</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_localisation.png</string>
+						<string>Lucas&amp;Lucas (Lyon, 69)</string>
+						<string>icon_date.png</string>
+						<string>September to december 2011</string>
+						<string>Website development (front and back).</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Language skills</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>French</string>
+					<key>subtitle</key>
+					<string>Native Language</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>English</string>
+					<key>subtitle</key>
+					<string>Profesional</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>IT skills</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Analyse</string>
+					<key>subtitles</key>
+					<array>
+						<string>UML</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Language</string>
+					<key>subtitles</key>
+					<array>
+						<string>Objective-C, C, C++, C#, Java, PHP, JavaScript, OCamL, Shell</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Web Languages</string>
+					<key>subtitles</key>
+					<array>
+						<string>HTML, CSS, XML, JSON</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>SGDB</string>
+					<key>subtitles</key>
+					<array>
+						<string>MySQL, SQLite</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>SDK</string>
+					<key>subtitles</key>
+					<array>
+						<string>iOS, Android</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>IDE</string>
+					<key>subtitles</key>
+					<array>
+						<string>Xcode, intelliJ, Eclipse, Visual Studio, NetBeans</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Versionning</string>
+					<key>subtitles</key>
+					<array>
+						<string>Git (+ github), SVN, Mercurial</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>OS</string>
+					<key>subtitles</key>
+					<array>
+						<string>Mac OS, Windows, Linux (Ubuntu, Fedora)</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>PAO</string>
+					<key>subtitles</key>
+					<array>
+						<string>C2I, pack office, LaTeX (basics), Open Office</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Interests</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>High tech / news</string>
+					<key>subtitles</key>
+					<array>
+						<string>Start-up, social networks, mobiles, etc</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Sports</string>
+					<key>subtitles</key>
+					<array>
+						<string>Paragliding, volleyball, snowboard</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Travels</string>
+					<key>subtitles</key>
+					<array>
+						<string>South Korea, Hong Kong, China, Taïwan, Japan, Sweden, Italy, Germany, Moroco, etc.</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
