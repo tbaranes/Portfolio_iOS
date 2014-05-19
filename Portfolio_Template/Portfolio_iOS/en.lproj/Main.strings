@@ -1,0 +1,42 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "1Tz-fF-SZs"; */
+"1Tz-fF-SZs.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Resume"; ObjectID = "5Om-d8-KK8"; */
+"5Om-d8-KK8.title" = "Resume";
+
+/* Class = "IBUITabBarItem"; title = "Projects"; ObjectID = "6YZ-XP-CvA"; */
+"6YZ-XP-CvA.title" = "Projects";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "7MT-H6-RK2"; */
+"7MT-H6-RK2.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ATo-Ry-OEW"; */
+"ATo-Ry-OEW.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "IaE-FA-8wV"; */
+"IaE-FA-8wV.text" = "Subtitle";
+
+/* Class = "IBUITabBarItem"; title = "Resume"; ObjectID = "Kqc-iF-Bo6"; */
+"Kqc-iF-Bo6.title" = "Resume";
+
+/* Class = "IBUITabBarItem"; title = "Profile"; ObjectID = "Q6U-rC-aMj"; */
+"Q6U-rC-aMj.title" = "Profile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "TJh-fi-xLE"; */
+"TJh-fi-xLE.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "TOw-X9-NqM"; */
+"TOw-X9-NqM.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "cLJ-mS-5Oh"; */
+"cLJ-mS-5Oh.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Projects"; ObjectID = "d24-Gn-TbW"; */
+"d24-Gn-TbW.title" = "Projects";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "id2-sg-FwJ"; */
+"id2-sg-FwJ.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Profile"; ObjectID = "vr0-nf-Fzs"; */
+"vr0-nf-Fzs.title" = "Profile";

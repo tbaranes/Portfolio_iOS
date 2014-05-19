@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>section_name</key>
+		<string>Who am I</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFIdentityCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>picture</key>
+					<string>profile_picture@2x.jpg</string>
+					<key>text1</key>
+					<string>Firstname Name</string>
+					<key>text2</key>
+					<string>Paris, France</string>
+					<key>text3</key>
+					<string>XX years old - Licence driver</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFParagraphCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>text</key>
+					<string>Mobile developer</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>What am I looking for</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFParagraphCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>text</key>
+					<string>Looking for...</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Find me</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>mail</string>
+					<key>target</key>
+					<string>demo@gmail.com</string>
+					<key>left_text</key>
+					<string>Email</string>
+					<key>right_text</key>
+					<string>demo@gmail.com</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>call</string>
+					<key>target</key>
+					<string>+336...</string>
+					<key>left_text</key>
+					<string>Phone</string>
+					<key>right_text</key>
+					<string>06.XX.XX.XX.XX</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFRightDetailCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>action</key>
+					<string>url</string>
+					<key>target</key>
+					<string>https://github.com/</string>
+					<key>left_text</key>
+					<string>Github</string>
+					<key>right_text</key>
+					<string>Login</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Motivation</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFParagraphCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>text</key>
+					<string>Paragraph about your motivation</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

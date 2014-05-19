@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>section_name</key>
+		<string>Mes projets</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<true/>
+					<key>icon_app</key>
+					<string>placeholder_icon_app.png</string>
+					<key>name</key>
+					<string>App démo</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>placeholder_icon_app.png</string>
+										<key>name</key>
+										<string>App démo</string>
+										<key>description</key>
+										<string>Description de votre application: 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec adipiscing rutrum nulla, sed mattis massa. Nunc mi nunc, ultrices ullamcorper blandit et, lacinia ut felis. Duis at ipsum in tortor lobortis vestibulum. Vestibulum interdum, quam a tincidunt malesuada, risus metus lobortis enim, eget laoreet ante tortor sit amet sem. In mi est, luctus id quam id, sollicitudin interdum lectus. Ut lacus tellus, tristique in tellus ac, iaculis suscipit arcu. Curabitur a orci ut ante tristique imperdiet sit amet in turpis. Nullam lectus quam, semper a massa sed, aliquet condimentum risus. Maecenas feugiat eros et turpis pharetra fermentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Projet de démonstration</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Lead dev iOS / Dev Android</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 1.0 à 2.0 iOS / Version 1.0 Android</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://www.apple.com/fr/iphone/</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>https://play.google.com</string>
+										<key>left_image</key>
+										<string>icon_play_store</string>
+										<key>title</key>
+										<string>Play Store</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_demo_1.jpg</string>
+											<string>screenshot_demo_2.jpg</string>
+											<string>screenshot_demo_3.jpg</string>
+											<string>screenshot_demo_4.jpg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>placeholder_icon_app.png</string>
+					<key>name</key>
+					<string>App démo 2</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>placeholder_icon_app.png</string>
+										<key>name</key>
+										<string>App démo 2</string>
+										<key>description</key>
+										<string>Description de votre application: 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec adipiscing rutrum nulla, sed mattis massa. Nunc mi nunc, ultrices ullamcorper blandit et, lacinia ut felis. Duis at ipsum in tortor lobortis vestibulum. Vestibulum interdum, quam a tincidunt malesuada, risus metus lobortis enim, eget laoreet ante tortor sit amet sem. In mi est, luctus id quam id, sollicitudin interdum lectus. Ut lacus tellus, tristique in tellus ac, iaculis suscipit arcu. Curabitur a orci ut ante tristique imperdiet sit amet in turpis. Nullam lectus quam, semper a massa sed, aliquet condimentum risus. Maecenas feugiat eros et turpis pharetra fermentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Qu&apos;elle était l&apos;entreprise ?</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Dev iOS</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Version 1.0</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://www.apple.com/fr/iphone/</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://www.apple.com/fr/ipad/</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPad</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Captures d&apos;écrans</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_portfolio_demo_1.png</string>
+											<string>screenshot_portfolio_demo_2.png</string>
+											<string>screenshot_portfolio_demo_3.png</string>
+											<string>screenshot_portfolio_demo_4.png</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

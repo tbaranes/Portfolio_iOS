@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>section_name</key>
+		<string>Education</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Engineer mobile</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_date.png</string>
+						<string>2003-2008</string>
+						<string>icon_localisation.png</string>
+						<string>Ingineer school, Onisep</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Baccalaureate S</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_date.png</string>
+						<string>2003</string>
+						<string>icon_localisation.png</string>
+						<string>Lycée XX, Paris 12</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Work experience</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Auto-entrepreneur</string>
+					<key>subtitles</key>
+					<array>
+						<string>Freelance iOS and Android</string>
+						<string>icon_date.png</string>
+						<string>Since january 2010</string>
+						<string>Development of mobile applications iOS and Android</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>iOS developer internship</string>
+					<key>subtitles</key>
+					<array>
+						<string>icon_localisation.png</string>
+						<string>Company X (Paris, 75008)</string>
+						<string>icon_date.png</string>
+						<string>May 2008 to January 2010</string>
+						<string>Development of iOS and Android application</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>iOS developer</string>
+					<key>subtitles</key>
+					<array>
+						<string>Part time job (2 days/week)</string>
+						<string>icon_localisation.png</string>
+						<string>Entreprise Y (Paris, 75002)</string>
+						<string>icon_date.png</string>
+						<string>January 2007 to May 2008</string>
+						<string>Development of iOS application</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Language skills</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>French</string>
+					<key>subtitle</key>
+					<string>Native Language</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>English</string>
+					<key>subtitle</key>
+					<string>Profesional</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Spanish</string>
+					<key>subtitle</key>
+					<string>Basics</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>IT skills</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Language</string>
+					<key>subtitles</key>
+					<array>
+						<string>Objective-C, C, C++, C#, Java, PHP, JavaScript</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Web Languages</string>
+					<key>subtitles</key>
+					<array>
+						<string>HTML, CSS, XML, JSON</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>SGDB</string>
+					<key>subtitles</key>
+					<array>
+						<string>MySQL, SQLite</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Versionning</string>
+					<key>subtitles</key>
+					<array>
+						<string>Git (+ github), SVN, Mercurial</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>OS</string>
+					<key>subtitles</key>
+					<array>
+						<string>Mac OS, Windows, Linux</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>section_name</key>
+		<string>Interests</string>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Sports</string>
+					<key>subtitles</key>
+					<array>
+						<string>Tennis, Ski</string>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFTitleInfiniteSubtitleCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>title</key>
+					<string>Travels</string>
+					<key>subtitles</key>
+					<array>
+						<string>Japan, Norway, Italy, Germany, Tunisia, etc.</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
