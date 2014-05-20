@@ -3,7 +3,7 @@ Portfolio_iOS Template
 
 This project is a useful template to create a portfolio iOS app in **only two steps**:
 
-1. Customise three plist with your own data (identity, resume, projects, etc.)
+1. Customize three plist with your own data (identity, resume, projects, etc.)
 2. Create an app icon and launch images (if you want to publish it)
 3. Well done, you have a full functional portfolio iOS app
 
@@ -35,7 +35,7 @@ Contact
 
 * [@tbaranes](https://github.com/tbaranes/) on github
 
-Licence
+License
 ------
 
-Portfolio_iOS is under the Apache license. See the MIT Licence file for more information.
+Portfolio_iOS is under the Apache license. See the MIT License file for more information.
