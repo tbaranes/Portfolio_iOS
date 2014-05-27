@@ -24,7 +24,7 @@
 			CFStringRef fileExtension = (__bridge CFStringRef) [subtitle pathExtension];
 			CFStringRef fileUTI = UTTypeCreatePreferredIdentifierForTag(kUTTagClassFilenameExtension, fileExtension, NULL);
 			if (UTTypeConformsTo(fileUTI, kUTTypeImage)) {
-				[subtitlesImages setValue:[UIImage imageNamed:subtitle] forKey:[NSString stringWithFormat:@"%d", [subtitles count]]];
+				[subtitlesImages setValue:[UIImage imageNamed:subtitle] forKey:[NSString stringWithFormat:@"%lu", (unsigned long)[subtitles count]]];
 			} else {
 				[subtitles addObject:subtitle];
 			}

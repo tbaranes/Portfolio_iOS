@@ -47,7 +47,7 @@
 	NSInteger idx = 0;
 	NSInteger totHeight = floor(CGRectGetHeight([self.labelTitle bounds])) + MARGIN;
 	for (NSString *text in [model subtitles]) {
-		BOOL hasAnImage = [model.subtitleImages objectForKey:[NSString stringWithFormat:@"%d", idx]] != nil;
+		BOOL hasAnImage = [model.subtitleImages objectForKey:[NSString stringWithFormat:@"%ld", (long)idx]] != nil;
 		totHeight += [self heightForText:text hasAnImage:hasAnImage] + MARGIN;
 		idx++;
 	}
@@ -114,7 +114,7 @@
 	NSInteger idx = 0;
 	NSInteger nextY = floorf(CGRectGetMaxY([self.labelTitle frame])) + MARGIN;
 	for (NSString *text in [model subtitles]) {
-		UIImage *image = [model.subtitleImages objectForKey:[NSString stringWithFormat:@"%d", idx]];
+		UIImage *image = [model.subtitleImages objectForKey:[NSString stringWithFormat:@"%ld", (long)idx]];
 		if (image) {
 			[self reuseSubtitleImage:image nextY:nextY idx:idx];
 		}
