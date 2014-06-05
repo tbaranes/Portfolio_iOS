@@ -108,6 +108,14 @@
 		E2BF15661929E92000665B8F /* screenshot_friendlyquiz_3@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2BF15611929E92000665B8F /* screenshot_friendlyquiz_3@2x.jpeg */; };
 		E2BF15671929E92000665B8F /* screenshot_friendlyquiz_4@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2BF15621929E92000665B8F /* screenshot_friendlyquiz_4@2x.jpeg */; };
 		E2BF15681929E92000665B8F /* screenshot_friendlyquiz_5@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2BF15631929E92000665B8F /* screenshot_friendlyquiz_5@2x.jpeg */; };
+		E2C0C820194086E4002C186D /* icon_app_sum_challenge@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C81F194086E4002C186D /* icon_app_sum_challenge@2x.png */; };
+		E2C0C8241940877A002C186D /* screenshot_sum_challenge_1@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C8211940877A002C186D /* screenshot_sum_challenge_1@2x.jpeg */; };
+		E2C0C8251940877A002C186D /* screenshot_sum_challenge_2@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C8221940877A002C186D /* screenshot_sum_challenge_2@2x.jpeg */; };
+		E2C0C8261940877A002C186D /* screenshot_sum_challenge_3@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C8231940877A002C186D /* screenshot_sum_challenge_3@2x.jpeg */; };
+		E2C0C82B1940891C002C186D /* icon_app_friends_picture_quiz.png in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C8271940891C002C186D /* icon_app_friends_picture_quiz.png */; };
+		E2C0C838194089AB002C186D /* screenshot_friends_picture_quiz_1@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C835194089AB002C186D /* screenshot_friends_picture_quiz_1@2x.jpeg */; };
+		E2C0C839194089AB002C186D /* screenshot_friends_picture_quiz_2@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C836194089AB002C186D /* screenshot_friends_picture_quiz_2@2x.jpeg */; };
+		E2C0C83A194089AB002C186D /* screenshot_friends_picture_quiz_3@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E2C0C837194089AB002C186D /* screenshot_friends_picture_quiz_3@2x.jpeg */; };
 		E2C8A6AE1923568A002277CE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2C8A6AD1923568A002277CE /* Foundation.framework */; };
 		E2C8A6B01923568A002277CE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2C8A6AF1923568A002277CE /* CoreGraphics.framework */; };
 		E2C8A6B21923568A002277CE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2C8A6B11923568A002277CE /* UIKit.framework */; };
@@ -248,6 +256,14 @@
 		E2BF15611929E92000665B8F /* screenshot_friendlyquiz_3@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_friendlyquiz_3@2x.jpeg"; sourceTree = "<group>"; };
 		E2BF15621929E92000665B8F /* screenshot_friendlyquiz_4@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_friendlyquiz_4@2x.jpeg"; sourceTree = "<group>"; };
 		E2BF15631929E92000665B8F /* screenshot_friendlyquiz_5@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_friendlyquiz_5@2x.jpeg"; sourceTree = "<group>"; };
+		E2C0C81F194086E4002C186D /* icon_app_sum_challenge@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_app_sum_challenge@2x.png"; sourceTree = "<group>"; };
+		E2C0C8211940877A002C186D /* screenshot_sum_challenge_1@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_sum_challenge_1@2x.jpeg"; sourceTree = "<group>"; };
+		E2C0C8221940877A002C186D /* screenshot_sum_challenge_2@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_sum_challenge_2@2x.jpeg"; sourceTree = "<group>"; };
+		E2C0C8231940877A002C186D /* screenshot_sum_challenge_3@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_sum_challenge_3@2x.jpeg"; sourceTree = "<group>"; };
+		E2C0C8271940891C002C186D /* icon_app_friends_picture_quiz.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_app_friends_picture_quiz.png; sourceTree = "<group>"; };
+		E2C0C835194089AB002C186D /* screenshot_friends_picture_quiz_1@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_friends_picture_quiz_1@2x.jpeg"; sourceTree = "<group>"; };
+		E2C0C836194089AB002C186D /* screenshot_friends_picture_quiz_2@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_friends_picture_quiz_2@2x.jpeg"; sourceTree = "<group>"; };
+		E2C0C837194089AB002C186D /* screenshot_friends_picture_quiz_3@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screenshot_friends_picture_quiz_3@2x.jpeg"; sourceTree = "<group>"; };
 		E2C8A6AA1923568A002277CE /* Portfolio_TB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Portfolio_TB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2C8A6AD1923568A002277CE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E2C8A6AF1923568A002277CE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -327,6 +343,14 @@
 		E22C96461928B5F3004EE366 /* External images */ = {
 			isa = PBXGroup;
 			children = (
+				E2C0C8271940891C002C186D /* icon_app_friends_picture_quiz.png */,
+				E2C0C835194089AB002C186D /* screenshot_friends_picture_quiz_1@2x.jpeg */,
+				E2C0C836194089AB002C186D /* screenshot_friends_picture_quiz_2@2x.jpeg */,
+				E2C0C837194089AB002C186D /* screenshot_friends_picture_quiz_3@2x.jpeg */,
+				E2C0C81F194086E4002C186D /* icon_app_sum_challenge@2x.png */,
+				E2C0C8211940877A002C186D /* screenshot_sum_challenge_1@2x.jpeg */,
+				E2C0C8221940877A002C186D /* screenshot_sum_challenge_2@2x.jpeg */,
+				E2C0C8231940877A002C186D /* screenshot_sum_challenge_3@2x.jpeg */,
 				E2BF15371929D94000665B8F /* icon_app_friendlyquiz@2x.png */,
 				E2BF155F1929E92000665B8F /* screenshot_friendlyquiz_1@2x.jpeg */,
 				E2BF15601929E92000665B8F /* screenshot_friendlyquiz_2@2x.jpeg */,
@@ -667,9 +691,11 @@
 				E2BF154E1929E35400665B8F /* icon_app_portfolio@2x.png in Resources */,
 				E22C969E1928C011004EE366 /* screenshot_sols_2@2x.jpeg in Resources */,
 				E22C96821928B8EE004EE366 /* screenshot_sncf_direct_2@2x.jpeg in Resources */,
+				E2C0C820194086E4002C186D /* icon_app_sum_challenge@2x.png in Resources */,
 				E22C96951928BEB3004EE366 /* screenshot_promocross_1@2x.jpeg in Resources */,
 				E22C96701928B5F3004EE366 /* screenshot_parvest_5@2x.jpeg in Resources */,
 				E2BF15661929E92000665B8F /* screenshot_friendlyquiz_3@2x.jpeg in Resources */,
+				E2C0C838194089AB002C186D /* screenshot_friends_picture_quiz_1@2x.jpeg in Resources */,
 				E2BF15451929DDB300665B8F /* screenshot_portfolio_1@2x.jpeg in Resources */,
 				E22C968F1928BB5B004EE366 /* icon_app_mysmart_card@2x.png in Resources */,
 				E2615FE7192880EA00F431B8 /* PFProjectCellStyle.xib in Resources */,
@@ -694,6 +720,8 @@
 				E208CB3B19283D51001DE7EF /* PFParagraphCellStyle.xib in Resources */,
 				E22C96891928BA57004EE366 /* screenshot_bp_cyberplus_1@2x.jpeg in Resources */,
 				E223616F192989B40063BD3B /* icon_date@2x.png in Resources */,
+				E2C0C82B1940891C002C186D /* icon_app_friends_picture_quiz.png in Resources */,
+				E2C0C83A194089AB002C186D /* screenshot_friends_picture_quiz_3@2x.jpeg in Resources */,
 				E2C8A6B81923568A002277CE /* Localizable.strings in Resources */,
 				E2BF15381929D94000665B8F /* icon_app_friendlyquiz@2x.png in Resources */,
 				E22C966F1928B5F3004EE366 /* screenshot_parvest_4@2x.jpeg in Resources */,
@@ -701,6 +729,7 @@
 				E22C96751928B5F3004EE366 /* icon_profile@2x.png in Resources */,
 				E22C969F1928C011004EE366 /* screenshot_sols_3@2x.jpeg in Resources */,
 				E203C5D219289328007B2B41 /* PFProjectDetailsCellStyle.xib in Resources */,
+				E2C0C8251940877A002C186D /* screenshot_sum_challenge_2@2x.jpeg in Resources */,
 				E22C968B1928BA57004EE366 /* screenshot_bp_cyberplus_3@2x.jpeg in Resources */,
 				E22C969C1928C011004EE366 /* icon_app_sols@2x.png in Resources */,
 				E22C96761928B5F3004EE366 /* icon_project@2x.png in Resources */,
@@ -718,6 +747,7 @@
 				E22C96811928B8EE004EE366 /* screenshot_sncf_direct_1@2x.jpeg in Resources */,
 				E2BF15541929E5CE00665B8F /* icon_app_portfolio120x120@2x.png in Resources */,
 				E22C96691928B5F3004EE366 /* screenshot_jukeboard_2@2x.jpeg in Resources */,
+				E2C0C839194089AB002C186D /* screenshot_friends_picture_quiz_2@2x.jpeg in Resources */,
 				E22C96741928B5F3004EE366 /* icon_play_store@2x.png in Resources */,
 				E239D83C1929ED9500BEB694 /* app_splaschscreen640x1136@2x.png in Resources */,
 				E22C969D1928C011004EE366 /* screenshot_sols_1@2x.jpeg in Resources */,
@@ -727,6 +757,7 @@
 				E2BF15461929DDB300665B8F /* screenshot_portfolio_2@2x.jpeg in Resources */,
 				E22C966B1928B5F3004EE366 /* screenshot_jukeboard_4@2x.jpeg in Resources */,
 				E22C96631928B5F3004EE366 /* screenshot_caisse_epargne_1@2x.jpeg in Resources */,
+				E2C0C8261940877A002C186D /* screenshot_sum_challenge_3@2x.jpeg in Resources */,
 				E22C966A1928B5F3004EE366 /* screenshot_jukeboard_3@2x.jpeg in Resources */,
 				E22C96731928B5F3004EE366 /* icon_ios@2x.png in Resources */,
 				E22C968A1928BA57004EE366 /* screenshot_bp_cyberplus_2@2x.jpeg in Resources */,
@@ -738,6 +769,7 @@
 				E2C8A711192364A4002277CE /* ProfileData_FR.plist in Resources */,
 				E22C96781928B5F3004EE366 /* placeholder_icon_app@2x.png in Resources */,
 				E2BF15671929E92000665B8F /* screenshot_friendlyquiz_4@2x.jpeg in Resources */,
+				E2C0C8241940877A002C186D /* screenshot_sum_challenge_1@2x.jpeg in Resources */,
 				E22C96611928B5F3004EE366 /* icon_caisse_epargne@2x.png in Resources */,
 				E22C966D1928B5F3004EE366 /* screenshot_parvest_2@2x.jpeg in Resources */,
 				E22C96681928B5F3004EE366 /* screenshot_jukeboard_1@2x.jpeg in Resources */,

@@ -15,6 +15,230 @@
 					<key>is_ios</key>
 					<true/>
 					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_friends_picture_quiz.png</string>
+					<key>name</key>
+					<string>FriendsPictureQuiz</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_friends_picture_quiz</string>
+										<key>name</key>
+										<string>FriendsPictureQuiz</string>
+										<key>description</key>
+										<string>Vous pensez connaitre l&apos;ensemble de vos amis ? Pouvoir les reconnaitre aux traits près ? Alors, relevez le défis ! 
+
+A travers un univers ludique et divertissant, retrouvez tous vos amis qui se cachent derrière ces images cachées. Tentez d&apos;atteindre les 100% pour montrer que vous êtes réellement incollable. 
+
+Retrouvez vos amis utilisant cette application via Facebook. Facebook est trop facile ? Tentez votre chance face à vos amis Twitter.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Tom Baranes</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Tout</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Toutes</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Screenshots</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_friends_picture_quiz_1.jpeg</string>
+											<string>screenshot_friends_picture_quiz_2.jpeg</string>
+											<string>screenshot_friends_picture_quiz_3.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
+					<false/>
+					<key>icon_app</key>
+					<string>icon_app_sum_challenge.png</string>
+					<key>name</key>
+					<string>Sum-Challenge</string>
+					<key>details_record</key>
+					<array>
+						<dict>
+							<key>section_name</key>
+							<string>General</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectDetailsCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>icon_app</key>
+										<string>icon_app_sum_challenge.png</string>
+										<key>name</key>
+										<string>Sum-Challenge</string>
+										<key>description</key>
+										<string>Do you think you are the best at mental calculation? You aren&apos;t that good, but you like challenge yourself? You are nostalgic of your primary school&apos;s mathematic session? So, this app is for you.
+
+Train your brain and challenge all your friends. Solves the equations as fast as possible to get the best score and become the number one of the leaderboard. Be the king of additions, and prove to the word you are the best.</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Plus d&apos;informations</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Entreprise</string>
+										<key>subtitle</key>
+										<string>Tom Baranes</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Mon travail</string>
+										<key>subtitle</key>
+										<string>Tout</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>cell_style</key>
+									<string>PFTitleSubtitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>title</key>
+										<string>Versions réalisés</string>
+										<key>subtitle</key>
+										<string>Toutes</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Téléchargement</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFLeftImageTitleCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>action</key>
+										<string>url</string>
+										<key>target</key>
+										<string>http://itunes.apple.com/app/id883012168</string>
+										<key>left_image</key>
+										<string>icon_apple_store</string>
+										<key>title</key>
+										<string>Apple Store - iPhone</string>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>section_name</key>
+							<string>Screenshots</string>
+							<key>content</key>
+							<array>
+								<dict>
+									<key>cell_style</key>
+									<string>PFProjectScreenshotCellStyle</string>
+									<key>content</key>
+									<dict>
+										<key>screenshots</key>
+										<array>
+											<string>screenshot_sum_challenge_1.jpeg</string>
+											<string>screenshot_sum_challenge_2.jpeg</string>
+											<string>screenshot_sum_challenge_3.jpeg</string>
+										</array>
+									</dict>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>cell_style</key>
+				<string>PFProjectCellStyle</string>
+				<key>content</key>
+				<dict>
+					<key>is_ios</key>
+					<true/>
+					<key>is_android</key>
 					<true/>
 					<key>icon_app</key>
 					<string>icon_app_friendlyquiz.png</string>
