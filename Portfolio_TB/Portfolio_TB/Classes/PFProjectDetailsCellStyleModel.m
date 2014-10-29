@@ -18,7 +18,7 @@
 		NSString *imageName = [data objectForKey:@"icon_app"];
         _iconApp = [UIImage imageNamed:[imageName isEqualToString:@""] ? @"placeholder_icon_app" : imageName];
         _name = [data objectForKey:@"name"];
-        _description = [data objectForKey:@"description"];
+        _desc = [data objectForKey:@"description"];
 	}
     return self;
 }
@@ -38,7 +38,7 @@
     if (self) {
         self.iconApp = [decoder decodeObjectForKey:@"customIconApp"];
         self.name = [decoder decodeObjectForKey:@"customName"];
-        self.description = [decoder decodeObjectForKey:@"customDescription"];
+        self.desc = [decoder decodeObjectForKey:@"customDescription"];
     }
     return self;
 }
@@ -49,7 +49,7 @@
     PFProjectDetailsCellStyleModel *copy = [[PFProjectDetailsCellStyleModel allocWithZone:zone] init];
     copy->_iconApp = [self.iconApp copy];
     copy->_name = [self.name copy];
-    copy->_description = [self.description copy];
+    copy->_desc = [self.description copy];
     return copy;
 }
 

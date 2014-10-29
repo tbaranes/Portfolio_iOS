@@ -12,6 +12,6 @@
 
 @property (strong, nonatomic) UIImage *iconApp;
 @property (strong, nonatomic) NSString *name;
-@property (strong, nonatomic) NSString *description;
+@property (strong, nonatomic) NSString *desc;
 
 @end

@@ -26,6 +26,7 @@
 	self.subtitlesImage = [NSMutableArray array];
 }
 
+
 #pragma mark - Layout management
 
 - (CGFloat)heightForText:(NSString *)text hasAnImage:(BOOL)hasAnImage {
